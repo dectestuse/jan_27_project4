@@ -33,4 +33,7 @@ and add to others and write their username
 invitation send
 
 
-
+git status
+git pull
+git commit
+git push
